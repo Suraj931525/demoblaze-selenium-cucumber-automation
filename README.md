@@ -253,7 +253,7 @@ The framework can be enhanced by adding:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Suraj Patil
 
 Java | Selenium | Cucumber | Automation Testing
 
